@@ -28,7 +28,7 @@ public class Plugin : BaseUnityPlugin
             typeof(SpeedAdjust)
                 .GetField("speedOptions", BindingFlags.NonPublic | BindingFlags.Instance)
                 ?.SetValue(__instance, new float[] {
-                    0.1f, 0.25f, 0.5f, 0.75f, 1f, 1.5f, 2f, 3f, 5f, 10f, 15f, 20f, 25f, 30f, 35f, 40f, 45f, 50f, 55f, 60f, 65f, 70f, 75f, 80f, 85f, 90f, 95f, 100f, 150f, 200f, 250f, 500f, 1000f, 2000f
+                    0.1f, 0.25f, 0.5f, 0.75f, 1f, 1.5f, 2f, 3f, 5f, 10f, 15f, 20f, 25f, 30f, 35f, 40f, 45f, 50f, 55f, 60f, 65f, 70f, 75f, 80f, 85f, 90f, 95f, 100f
                 });
         }
     }
