@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/adam/Projects/NeedForSpeed/NeedForSpeed.csproj": {}
+  },
+  "projects": {
+    "/home/adam/Projects/NeedForSpeed/NeedForSpeed.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/adam/Projects/NeedForSpeed/NeedForSpeed.csproj",
+        "projectName": "NeedForSpeed",
+        "projectPath": "/home/adam/Projects/NeedForSpeed/NeedForSpeed.csproj",
+        "packagesPath": "/home/adam/.nuget/packages/",
+        "outputPath": "/home/adam/Projects/NeedForSpeed/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/adam/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.bepinex.dev/v3/index.json": {},
+          "https://nuget.samboy.dev/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "AgesOfConflict.GameLibs": {
+              "target": "Package",
+              "version": "[4.0.8, )"
+            },
+            "BepInEx.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.*, )"
+            },
+            "BepInEx.Core": {
+              "target": "Package",
+              "version": "[5.*, )"
+            },
+            "BepInEx.PluginInfoProps": {
+              "target": "Package",
+              "version": "[2.*, )"
+            },
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "UnityEngine.Modules": {
+              "include": "Compile",
+              "target": "Package",
+              "version": "[2021.3.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.117/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

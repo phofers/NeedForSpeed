@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "XjXh4t0Y+9NvZZKFcciZacKyHlZliS+R+wvHQYHf3ZNWNdCxHsh0sf4eVEP1YOIGnNsyCq4UBwzXDEumuZKTcQ==",
+  "success": true,
+  "projectFilePath": "/home/adam/Projects/NeedForSpeed/NeedForSpeed.csproj",
+  "expectedPackageFiles": [
+    "/home/adam/.nuget/packages/agesofconflict.gamelibs/4.0.8/agesofconflict.gamelibs.4.0.8.nupkg.sha512",
+    "/home/adam/.nuget/packages/bepinex.analyzers/1.0.8/bepinex.analyzers.1.0.8.nupkg.sha512",
+    "/home/adam/.nuget/packages/bepinex.baselib/5.4.20/bepinex.baselib.5.4.20.nupkg.sha512",
+    "/home/adam/.nuget/packages/bepinex.core/5.4.21/bepinex.core.5.4.21.nupkg.sha512",
+    "/home/adam/.nuget/packages/bepinex.plugininfoprops/2.1.0/bepinex.plugininfoprops.2.1.0.nupkg.sha512",
+    "/home/adam/.nuget/packages/harmonyx/2.7.0/harmonyx.2.7.0.nupkg.sha512",
+    "/home/adam/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.2/microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "/home/adam/.nuget/packages/microsoft.netframework.referenceassemblies.net472/1.0.2/microsoft.netframework.referenceassemblies.net472.1.0.2.nupkg.sha512",
+    "/home/adam/.nuget/packages/mono.cecil/0.11.4/mono.cecil.0.11.4.nupkg.sha512",
+    "/home/adam/.nuget/packages/monomod.runtimedetour/21.12.13.1/monomod.runtimedetour.21.12.13.1.nupkg.sha512",
+    "/home/adam/.nuget/packages/monomod.utils/21.12.13.1/monomod.utils.21.12.13.1.nupkg.sha512",
+    "/home/adam/.nuget/packages/unityengine.modules/2021.3.0/unityengine.modules.2021.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
