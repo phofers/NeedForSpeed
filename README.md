@@ -18,3 +18,6 @@ Speeds start to become a bit buggy near the upper limits so that's why I haven't
 It also becomes quite laggy, even on higher end PCs!
 Going on very high speeds tend to make you simulate for a long time, and that tends to make your history log file quite large, so it may take some time for it to open when you hit the button or crash your game.
 Here be dragons!
+
+You will need bepinex for this. Follow the tutorial to install:
+https://docs.bepinex.dev/articles/user_guide/installation/index.html
