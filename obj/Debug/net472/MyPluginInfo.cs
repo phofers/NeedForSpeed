@@ -4,6 +4,6 @@ namespace NeedForSpeed
     {
         public const string PLUGIN_GUID = "NeedForSpeed";
         public const string PLUGIN_NAME = "NeedForSpeed";
-        public const string PLUGIN_VERSION = "1.0.0";
+        public const string PLUGIN_VERSION = "1.1.0";
     }
 }

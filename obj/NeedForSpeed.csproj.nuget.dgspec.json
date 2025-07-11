@@ -5,7 +5,7 @@
   },
   "projects": {
     "/home/adam/Projects/NeedForSpeed/NeedForSpeed.csproj": {
-      "version": "1.0.0",
+      "version": "1.1.0",
       "restore": {
         "projectUniqueName": "/home/adam/Projects/NeedForSpeed/NeedForSpeed.csproj",
         "projectName": "NeedForSpeed",
@@ -43,7 +43,7 @@
           "dependencies": {
             "AgesOfConflict.GameLibs": {
               "target": "Package",
-              "version": "[4.0.8, )"
+              "version": "[4.1.0, )"
             },
             "BepInEx.Analyzers": {
               "suppressParent": "All",

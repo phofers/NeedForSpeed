@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     ".NETFramework,Version=v4.7.2": {
-      "AgesOfConflict.GameLibs/4.0.8": {
+      "AgesOfConflict.GameLibs/4.1.0": {
         "type": "package",
         "compile": {
           "lib/Assembly-CSharp-firstpass.dll": {},
@@ -46,10 +46,6 @@
           "lib/Unity.2D.PixelPerfect.dll": {},
           "lib/Unity.2D.SpriteShape.Runtime.dll": {},
           "lib/Unity.2D.Tilemap.Extras.dll": {},
-          "lib/Unity.Burst.Cecil.Mdb.dll": {},
-          "lib/Unity.Burst.Cecil.Pdb.dll": {},
-          "lib/Unity.Burst.Cecil.Rocks.dll": {},
-          "lib/Unity.Burst.Cecil.dll": {},
           "lib/Unity.Burst.Unsafe.dll": {},
           "lib/Unity.Burst.dll": {},
           "lib/Unity.InputSystem.ForUI.dll": {},
@@ -57,6 +53,14 @@
           "lib/Unity.InternalAPIEngineBridge.001.dll": {},
           "lib/Unity.Mathematics.dll": {},
           "lib/Unity.MemoryProfiler.dll": {},
+          "lib/Unity.Purchasing.AppleMacosStub.dll": {},
+          "lib/Unity.Purchasing.AppleStub.dll": {},
+          "lib/Unity.Purchasing.Codeless.dll": {},
+          "lib/Unity.Purchasing.SecurityCore.dll": {},
+          "lib/Unity.Purchasing.SecurityStub.dll": {},
+          "lib/Unity.Purchasing.Stores.dll": {},
+          "lib/Unity.Purchasing.Utilities.dll": {},
+          "lib/Unity.Purchasing.dll": {},
           "lib/Unity.RenderPipeline.Universal.ShaderLibrary.dll": {},
           "lib/Unity.RenderPipelines.Core.Runtime.dll": {},
           "lib/Unity.RenderPipelines.Core.ShaderLibrary.dll": {},
@@ -78,10 +82,6 @@
           "lib/Unity.Services.Core.dll": {},
           "lib/Unity.TextMeshPro.dll": {},
           "lib/Unity.Timeline.dll": {},
-          "lib/Unity.VisualScripting.Antlr3.Runtime.dll": {},
-          "lib/Unity.VisualScripting.Core.dll": {},
-          "lib/Unity.VisualScripting.Flow.dll": {},
-          "lib/Unity.VisualScripting.State.dll": {},
           "lib/UnityEngine.AIModule.dll": {},
           "lib/UnityEngine.ARModule.dll": {},
           "lib/UnityEngine.AccessibilityModule.dll": {},
@@ -207,10 +207,6 @@
           "lib/Unity.2D.PixelPerfect.dll": {},
           "lib/Unity.2D.SpriteShape.Runtime.dll": {},
           "lib/Unity.2D.Tilemap.Extras.dll": {},
-          "lib/Unity.Burst.Cecil.Mdb.dll": {},
-          "lib/Unity.Burst.Cecil.Pdb.dll": {},
-          "lib/Unity.Burst.Cecil.Rocks.dll": {},
-          "lib/Unity.Burst.Cecil.dll": {},
           "lib/Unity.Burst.Unsafe.dll": {},
           "lib/Unity.Burst.dll": {},
           "lib/Unity.InputSystem.ForUI.dll": {},
@@ -218,6 +214,14 @@
           "lib/Unity.InternalAPIEngineBridge.001.dll": {},
           "lib/Unity.Mathematics.dll": {},
           "lib/Unity.MemoryProfiler.dll": {},
+          "lib/Unity.Purchasing.AppleMacosStub.dll": {},
+          "lib/Unity.Purchasing.AppleStub.dll": {},
+          "lib/Unity.Purchasing.Codeless.dll": {},
+          "lib/Unity.Purchasing.SecurityCore.dll": {},
+          "lib/Unity.Purchasing.SecurityStub.dll": {},
+          "lib/Unity.Purchasing.Stores.dll": {},
+          "lib/Unity.Purchasing.Utilities.dll": {},
+          "lib/Unity.Purchasing.dll": {},
           "lib/Unity.RenderPipeline.Universal.ShaderLibrary.dll": {},
           "lib/Unity.RenderPipelines.Core.Runtime.dll": {},
           "lib/Unity.RenderPipelines.Core.ShaderLibrary.dll": {},
@@ -239,10 +243,6 @@
           "lib/Unity.Services.Core.dll": {},
           "lib/Unity.TextMeshPro.dll": {},
           "lib/Unity.Timeline.dll": {},
-          "lib/Unity.VisualScripting.Antlr3.Runtime.dll": {},
-          "lib/Unity.VisualScripting.Core.dll": {},
-          "lib/Unity.VisualScripting.Flow.dll": {},
-          "lib/Unity.VisualScripting.State.dll": {},
           "lib/UnityEngine.AIModule.dll": {},
           "lib/UnityEngine.ARModule.dll": {},
           "lib/UnityEngine.AccessibilityModule.dll": {},
@@ -535,14 +535,14 @@
     }
   },
   "libraries": {
-    "AgesOfConflict.GameLibs/4.0.8": {
-      "sha512": "fIPtkSvOUJiZnBZ3lS+S/pQVU/WDBGDm73CGPwGkciHn756zKJn4hbXUL53tku2/QY3m7X8aMt4jnVilgv/PYA==",
+    "AgesOfConflict.GameLibs/4.1.0": {
+      "sha512": "8v8jJSQPQTA0qeaou6Fr6+R2iCItJmc6lkNcOHVmrfVRN+lbAtmbYujfRbugR/w+zMn5jaMgyU1SV459h8NI+w==",
       "type": "package",
-      "path": "agesofconflict.gamelibs/4.0.8",
+      "path": "agesofconflict.gamelibs/4.1.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "agesofconflict.gamelibs.4.0.8.nupkg.sha512",
+        "agesofconflict.gamelibs.4.1.0.nupkg.sha512",
         "agesofconflict.gamelibs.nuspec",
         "lib/Assembly-CSharp-firstpass.dll",
         "lib/Assembly-CSharp.dll",
@@ -585,10 +585,6 @@
         "lib/Unity.2D.PixelPerfect.dll",
         "lib/Unity.2D.SpriteShape.Runtime.dll",
         "lib/Unity.2D.Tilemap.Extras.dll",
-        "lib/Unity.Burst.Cecil.Mdb.dll",
-        "lib/Unity.Burst.Cecil.Pdb.dll",
-        "lib/Unity.Burst.Cecil.Rocks.dll",
-        "lib/Unity.Burst.Cecil.dll",
         "lib/Unity.Burst.Unsafe.dll",
         "lib/Unity.Burst.dll",
         "lib/Unity.InputSystem.ForUI.dll",
@@ -596,6 +592,14 @@
         "lib/Unity.InternalAPIEngineBridge.001.dll",
         "lib/Unity.Mathematics.dll",
         "lib/Unity.MemoryProfiler.dll",
+        "lib/Unity.Purchasing.AppleMacosStub.dll",
+        "lib/Unity.Purchasing.AppleStub.dll",
+        "lib/Unity.Purchasing.Codeless.dll",
+        "lib/Unity.Purchasing.SecurityCore.dll",
+        "lib/Unity.Purchasing.SecurityStub.dll",
+        "lib/Unity.Purchasing.Stores.dll",
+        "lib/Unity.Purchasing.Utilities.dll",
+        "lib/Unity.Purchasing.dll",
         "lib/Unity.RenderPipeline.Universal.ShaderLibrary.dll",
         "lib/Unity.RenderPipelines.Core.Runtime.dll",
         "lib/Unity.RenderPipelines.Core.ShaderLibrary.dll",
@@ -617,10 +621,6 @@
         "lib/Unity.Services.Core.dll",
         "lib/Unity.TextMeshPro.dll",
         "lib/Unity.Timeline.dll",
-        "lib/Unity.VisualScripting.Antlr3.Runtime.dll",
-        "lib/Unity.VisualScripting.Core.dll",
-        "lib/Unity.VisualScripting.Flow.dll",
-        "lib/Unity.VisualScripting.State.dll",
         "lib/UnityEngine.AIModule.dll",
         "lib/UnityEngine.ARModule.dll",
         "lib/UnityEngine.AccessibilityModule.dll",
@@ -1443,7 +1443,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETFramework,Version=v4.7.2": [
-      "AgesOfConflict.GameLibs >= 4.0.8",
+      "AgesOfConflict.GameLibs >= 4.1.0",
       "BepInEx.Analyzers >= 1.*",
       "BepInEx.Core >= 5.*",
       "BepInEx.PluginInfoProps >= 2.*",
@@ -1455,7 +1455,7 @@
     "/home/adam/.nuget/packages/": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "restore": {
       "projectUniqueName": "/home/adam/Projects/NeedForSpeed/NeedForSpeed.csproj",
       "projectName": "NeedForSpeed",
@@ -1493,7 +1493,7 @@
         "dependencies": {
           "AgesOfConflict.GameLibs": {
             "target": "Package",
-            "version": "[4.0.8, )"
+            "version": "[4.1.0, )"
           },
           "BepInEx.Analyzers": {
             "suppressParent": "All",

@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "XjXh4t0Y+9NvZZKFcciZacKyHlZliS+R+wvHQYHf3ZNWNdCxHsh0sf4eVEP1YOIGnNsyCq4UBwzXDEumuZKTcQ==",
+  "dgSpecHash": "ZlwG67yeonN2Q/BGDwr31HVE/reXKKBU5iEL9rQyzO73hZjZgMUazY77HJk0DGzEt7q+R+FUxXzt6LGRe1wASQ==",
   "success": true,
   "projectFilePath": "/home/adam/Projects/NeedForSpeed/NeedForSpeed.csproj",
   "expectedPackageFiles": [
-    "/home/adam/.nuget/packages/agesofconflict.gamelibs/4.0.8/agesofconflict.gamelibs.4.0.8.nupkg.sha512",
+    "/home/adam/.nuget/packages/agesofconflict.gamelibs/4.1.0/agesofconflict.gamelibs.4.1.0.nupkg.sha512",
     "/home/adam/.nuget/packages/bepinex.analyzers/1.0.8/bepinex.analyzers.1.0.8.nupkg.sha512",
     "/home/adam/.nuget/packages/bepinex.baselib/5.4.20/bepinex.baselib.5.4.20.nupkg.sha512",
     "/home/adam/.nuget/packages/bepinex.core/5.4.21/bepinex.core.5.4.21.nupkg.sha512",
